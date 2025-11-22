@@ -46,6 +46,6 @@ A modern, responsive inventory management system built with React and Node.js.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/stockmaster.git
+git clone https://github.com/Deeptiwakchaure/StockMaster.git
 cd stockmaster
 ```
